@@ -1,17 +1,17 @@
 ---
 title: "Markdown"
-date: 2021-03-11
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+date: 2019-03-11
+description: "基本的なMarkdown構文とHTML要素のフォーマットを紹介するサンプル"
 tags: ["markdown", "css", "html", "sample"]
 ---
 
-This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.
+この記事では、Congoで使用できる基本的なMarkdownフォーマットのサンプルを提供し、またいくつかの基本的なHTML要素がどのように装飾されているかを示します。
 
 <!--more-->
 
-## Headings
+## 見出し
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+以下のHTMLの `<h1>` から `<h6>` 要素は6段階のセクション見出しを表します。 `<h1>` は最も高いセクションレベルであり、 `<h6>` は最も低いセクションレベルです。
 
 # H1
 
@@ -25,7 +25,7 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ###### H6
 
-## Paragraph
+## パラグラフ
 
 Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
 
@@ -33,7 +33,7 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 
 ## Blockquotes
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+`blockquote` 要素は他のソースから引用された内容を表し、オプションとして引用元を `footer` 要素または `cite` 要素内に記述します。注釈や省略形などのインライン変更を記述することもできます。
 
 ### Blockquote without attribution
 
@@ -47,16 +47,16 @@ The blockquote element represents content that is quoted from another source, op
 
 [^1]: The above quote is excerpted from Rob Pike's [talk `about` nothing](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
-## Tables
+## 表
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+表はMarkdownのコア仕様には含まれていませんが、Hugoはサポートしています。
 
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
+| 名前  | 年齢 |
+| ----- | ---- |
+| Bob   | 27   |
+| Alice | 23   |
 
-### Inline Markdown within tables
+### 表中のMarkdown
 
 | Italics   | Bold     | Code   |
 | --------- | -------- | ------ |
@@ -108,21 +108,21 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 </html>
 {{< /highlight >}}
 
-## List Types
+## リスト
 
-### Ordered List
+### 順序付きリスト
 
 1. First item
 2. Second item
 3. Third item
 
-### Unordered List
+### 順序なしリスト
 
 - List item
 - Another item
 - And another item
 
-### Nested list
+### ネストしたリスト
 
 - Fruit
   - Apple
@@ -132,14 +132,14 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
   - Milk
   - Cheese
 
-## Other Elements — abbr, sub, sup, kbd, mark
+## その他の要素 — abbr, sub, sup, kbd, mark
 
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+<abbr title="Graphics Interchange Format">GIF</abbr>はビットマップ形式の画像です.
 
 H<sub>2</sub>O
 
 X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 
-Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd> to end the session.
+<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd>を押下してください。
 
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+ほとんどの<mark>サンショウウオ</mark>は夜行性で、昆虫やミミズなどの小さな生き物を狩る。
