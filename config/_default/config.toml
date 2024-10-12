@@ -3,10 +3,10 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://wagner-cardoso.github.io/"
-languageCode = "en"
+languageCode = "pt-BR"
 
 theme = "congo"
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-BR"
 
 enableRobotsTXT = true
 summaryLength = 0

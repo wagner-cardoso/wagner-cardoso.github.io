@@ -11,8 +11,6 @@ Una breve muestra de notación matemática en Congo.
 
 {{< katex >}}
 
-Congo solo incluirá los assets de KaTeX en su proyecto si utiliza notación matemática. Para que esto funcione, simplemente incluya el [`katex` shortcode]({{< ref path="docs/shortcodes#katex" lang="en" >}}) dentro del artículo. Cualquier sintaxis de KaTeX en esa página se renderizará automáticamente.
-
 Utilice la documentación en línea de [funciones TeX admitidas](https://katex.org/docs/supported.html) para conocer la sintaxis disponible.
 
 ## Notación en línea

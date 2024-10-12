@@ -9,8 +9,6 @@ tags: ["icons", "sample", "shortcodes"]
 showDateUpdated: true
 ---
 
-Congo tiene soporte integrado para varios íconos de [FontAwesome 6](https://fontawesome.com/icons). Estos se pueden incluir en su sitio web a través del [ícono parcial]({{< ref path="docs/partials#icon" lang="en" >}}) o el [código abreviado]({{< ref path="docs/shortcodes#icon" lang="en" >}}) del ícono.
-
 Además, los íconos personalizados también son totalmente compatibles. Simplemente proporcione sus propios archivos en formato SVG y coloquelos en el directorio `assets/icons/` en la raíz de su proyecto. Cualquier ícono en el directorio de íconos estará disponible para usar en todo el tema.
 
 La lista completa de íconos incorporados y sus nombres correspondientes se pueden consultar a continuación.

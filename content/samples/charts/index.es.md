@@ -10,8 +10,6 @@ Congo incluye soporte para Chart.js usando el shortcode `chart`. Simplemente enc
 
 Congo crea temas de gráficos automáticamente para que coincidan con el parámetro `colorScheme` configurado. Sin embargo, los colores se pueden personalizar usando la sintaxis normal de Chart.js.
 
-Consulta la documentación del [chart shortcode]({{< ref path="docs/shortcodes#chart" lang="en" >}}) para obtener más detalles.
-
 Los ejemplos a continuación son una pequeña selección tomada de la [documentación oficial de Chart.js](https://www.chartjs.org/docs/latest/samples). También puedes ver el [código fuente de la página](https://raw.githubusercontent.com/jpanther/congo/dev/exampleSite/content/samples/charts.es.md) en GitHub para ver la sintaxis.
 
 ## Gráfico de barras

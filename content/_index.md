@@ -1,15 +1,15 @@
 ---
 title: "Bem vindo ao Blog! :tada:"
 description: "Este é um site voltado a educação."
+cascade:
+  showEdit: false
+  showSummary: true
 ---
 
-{{< lead >}}
+<!-- {{< lead >}}
 Transformando o futuro através da educação.
-{{< /lead >}}
-
+{{< /lead >}} -->
 Acreditamos que o aprendizado contínuo é a chave para o sucesso e a realização pessoal. Junte-se a nós nessa jornada de conhecimento e crescimento!"
-
----
 
 <!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center pe-3 text-primary-400">
