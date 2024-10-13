@@ -1,6 +1,6 @@
 ---
 title: "Gráfico de funções"
-date: 2024-10-12
+date: 2024-08-20
 description: "EJAEM - Gráfico de funções."
 #cover: "thumb-geometry.jpg"
 tags: ["matemática", "EJAEM"]

@@ -3,7 +3,7 @@ title: "Bem vindo ao Blog! :tada:"
 description: "Este é um site voltado a educação."
 cascade:
   showEdit: false
-  showSummary: true
+  showSummary: false
 ---
 
 <!-- {{< lead >}}

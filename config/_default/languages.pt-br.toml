@@ -9,14 +9,14 @@ copyright = "&copy; 2024 Todos os direitos reservados"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["blog"]
+  mainSections = ["fisica", "matematica"]
   description = "Um tema leve e poderoso para Hugo contruído usando o Tailwind CSS."
 
 [params.author]
   name = "Professor Wagner"
   image = "img/wagner.jpg"
   headline = "Educação é o futuro! :book:"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  bio = "Formado em Licenciatura em Física, Pós graduado em Gestão de Projetos e Analista Profissional na área de TI :dog:"
   links = [
     # { x-twitter = "https://twitter.com/" },
     # { facebook = "https://facebook.com/" },
