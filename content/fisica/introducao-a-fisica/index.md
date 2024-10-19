@@ -72,7 +72,7 @@ Se \\(y\\) for positivo, a grandeza representa um número maior que 1; se for ne
 
 Contando as casas deslocadas pela vírgula da direita para esquerda, obtém-se um total de 8 casas. Sendo assim, a velocidade da luz na forma de notação científica passa a ser reescrita da maneira a seguir:
 
-$$3\cdot10^8 \; m/s$$
+$$3\cdot10^8 \ m/s$$
 
 
 ## Atividade
